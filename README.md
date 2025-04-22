@@ -21,6 +21,11 @@ Or using terminal:
 
 ``./bbs``
 
+##Screenshots:
+![image](https://github.com/user-attachments/assets/7b7764c7-eebf-44bc-9a41-f28bad7b2ef0)
+![image](https://github.com/user-attachments/assets/1a6680ed-13e3-49d0-b943-cce2cb28e5a9)
+
+
 ## Author
 
 Tasnim Hasan Tamim  
