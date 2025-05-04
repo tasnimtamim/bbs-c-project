@@ -27,12 +27,3 @@ Or using terminal:
 ![image](https://github.com/user-attachments/assets/1a6680ed-13e3-49d0-b943-cce2cb28e5a9)
 
 
-## Author
-
-Tasnim Hasan Tamim  
-CSE115, North South University, Spring 2025
-
-About Me: 
-
-
-This is a simple project assigned to me on my freshmen year in university (CSE115 - Programming Language) course. It might have very inefficient or dirty code but doing this project tremendously helped me understand C programming. I hope to improve upon it in future :D
